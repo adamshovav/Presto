@@ -1,0 +1,21 @@
+{
+  "servers": [
+    {
+      "host": "YOUR DOMAIN",
+      "username": "YOUR USERNAME",
+      "password": "YOUR PASSWORD"
+    }
+  ],
+  "setupMongo": true,
+  "setupNode": true,
+  "nodeVersion" : "0.10.36",
+  "setupPhantom": true,
+  "enableUploadProgressBar": true,
+  "appName": "PRESTA SHOP",
+  "app": ".",
+  "env": {
+    "PORT":"80",
+    "ROOT_URL": "YOUR URL"
+  },
+  "deployCheckWaitTime": 20
+}

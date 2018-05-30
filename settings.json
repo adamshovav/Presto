@@ -1,0 +1,9 @@
+{
+  "stripeSecretKey": "STRIPE SECRET",
+  "public": {
+    "stripePublicKey": "STRIPE PUBLIC"
+  },
+  "salesDB" : {
+    "connectionString" : "postgresql://fyr:fyr%321@localhost/fyr"
+  }
+}
